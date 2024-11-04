@@ -62,7 +62,3 @@ To replicate this analysis:
 
 **Note**: This project is part of a broader data analysis portfolio, utilizing Python and data visualization techniques to gain actionable insights.
 
-## Contact
-
-For questions or feedback, feel free to reach out!
-
